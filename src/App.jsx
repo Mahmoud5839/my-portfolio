@@ -12,7 +12,7 @@ const projects = [
     title: "Zad Almusafir",
     category: "Frontend Development",
     description: "An informative Islamic website that helps travelers understand Qasr prayer through clear, accessible, and user-friendly content.",
-    image: "../public/images/zad-almusafir-cover.png",
+    image: "../images/zad-almusafir-cover.png",
     stack: ["React", "JavaScript (ES6+)", "CSS", "git", "GitHub Pages", "Vite", "Responsive Design"],
     live: "https://safr-qasr.vercel.app/",
     github: "https://github.com/Mahmoud5839/safr-qasr"
@@ -21,16 +21,16 @@ const projects = [
     title: "My Portfolio",
     category: "Frontend Development",
     description: "MERN Stack Developer building modern, responsive, and user-focused web applications. Passionate about turning ideas into practical digital solutions.",
-    image: "../public/images/Neon Full-Stack Portfolio Hero.png",
+    image: "../images/Neon Full-Stack Portfolio Hero.png",
     stack: ["React", "JavaScript (ES6+)", "CSS", "git", "Lucide React", "Responsive Design", "Vite"],
-    live: "https://portfolio.vercel.app/",
-    github: "https://github.com/Mahmoud5839/portfolio"
+    live: "https://myportfolio-m7.vercel.app/",
+    github: "https://github.com/Mahmoud5839/my-portfolio"
   },
   {
     title: "ABU-RABEH POS",
     category: "Full-Stack Web Application",
     description: "A complete cashier/POS system built with the MERN stack, featuring a user-friendly interface, real-time updates, and secure data management for efficient sales operations.",
-    image: "../public/images/aburabeh-store-cover-layered.png",
+    image: "../images/aburabeh-store-cover-layered.png",
     stack: ["React", "Node.js", "Express.js", "MongoDB", "Electron js", "Responsive Design", "APIs", "Authentication", "State Management"],
     live: "",
     github: ""
@@ -39,7 +39,7 @@ const projects = [
     title: "Zentro Store",
     category: "Full-Stack Web Development",
     description: "E-commerce web application built with the MERN stack, featuring a user-friendly interface, secure payment integration, and real-time inventory management for a seamless online shopping experience.",
-    image: "../public/images/zentro-store.jfif",
+    image: "../images/zentro-store.jfif",
     stack: ["React", "Node.js", "Express.js", "MongoDB", "Responsive Design", "APIs", "Authentication", "State Management"],
     live: "https://zentro-store.vercel.app/",
     github: "https://github.com/Mahmoud5839/ZENTRO-STORE-FRONT"
@@ -48,7 +48,7 @@ const projects = [
     title: "Housing Price Dashboard",
     category: "Data Analysis Project",
     description: "A machine learning model for predicting house prices based on various features and market trends.",
-    image: "../public/images/maxresdefault.jpg",
+    image: "../images/maxresdefault.jpg",
     stack: ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Dash", "Plotly",],
     live: "",
     github: ""
@@ -57,10 +57,19 @@ const projects = [
     title: "The Modern Marketing Dashboard",
     category: "Data Analysis Project",
     description: "Dashboard for analyzing and visualizing marketing data using machine learning techniques to optimize marketing strategies.",
-    image: "../public/images/modern-marketing.png",
+    image: "../images/modern-marketing.png",
     stack: ["Python", "Pandas", "NumPy",  "Seaborn", "Dash", "Plotly", "Machine Learning", "Data Analysis", "Data Visualization", "Docker"],
     live: "https://huggingface.co/spaces/mahmoud712/The-Modern-Marketing", 
-    github: ""
+    github: "https://github.com/Mahmoud5839/Modern-Marketing"
+  }, 
+  {
+    title: "Big Data E-Commerce Analysis",
+    category: "Data Analysis Project",
+    description: "A big data analysis project that utilizes PySpark to process and analyze large-scale e-commerce datasets, providing insights into customer behavior, sales trends, and product performance.",
+    image: "../images/big-data.jpg",
+    stack: ["Python", "Pandas", "pyspark", "streamlit", "jupyter", "Plotly", "Data Analysis", "Data Visualization", "Big Data"],
+    live: "",
+    github: "https://github.com/Mahmoud5839/Big-Data-Project"
   }, 
 
 ];
