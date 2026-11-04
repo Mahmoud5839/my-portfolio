@@ -80,10 +80,14 @@ const skills = [
   { name: "Node.js", group: "Backend", icon: Globe2 },
   { name: "Express.js", group: "Backend", icon: Code2 },
   { name: "MongoDB", group: "Database", icon: Database },
+  { name: "SQL", group: "Database", icon: Database },
   { name: "MERN Stack", group: "Full-Stack", icon: Code2 },
   { name: "Machine Learning", group: "AI & Data", icon: BrainCircuit },
   { name: "Data Analysis", group: "AI & Data", icon: Gauge },
   { name: "AI", group: "AI & Data", icon: Sparkles },
+  { name: "Python", group: "Programming Language", icon: Code2 },
+  { name: "JavaScript (ES6+)", group: "Programming Language", icon: Code2 },
+  { name: "C++", group: "Programming Language", icon: Code2 },
 ];
 
 const nav = ["About", "Skills", "Education", "Projects", "Contact"];
